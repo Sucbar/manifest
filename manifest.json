@@ -1,0 +1,39 @@
+{
+  "name": "Sucbar",
+  "short_name": "Sucbar.com",
+  "scope": "https://www.sucbar.com/",
+  "start_url": "https://www.sucbar.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Sucbar.com adalah media platform yang memberikan informasi seputar tutorial, tips dan trik cara tentang gadget dan teknologi.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQHPzvaWqHPy_u5db4cXZDMwl8Z3GA7KQshMyM9-6EWH1kuUixPyq4dAoXprHYtgmBX8ajqc_79sE36h8Dthl1c-L_z4qvCIkkdIgjdniHtmVMEh8UjL8PL0BLotd3QQxKY2l0eA4HldSCdnY1WBUWSCCUJ2oZkKV-ktrNimO36mcJp5De29UJGD4V/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgsWeUq2BPDaA-0KhP4gc9MkMWWli6EVbB6EeUrPDj7LofWBdh-dvNyP_h52hJejYvUYKM8KD-mvlwCW0GMcCp1c6e1HarmRFLx-l0Mwa3Y-5-kQQTf3xReyThLsRGPK4mwEmR32Ur4PRtuP5UYuSabZwk4Q2LTa6KZSWiEg4yv8LZXSvOnDLLvAIsF/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLbD9c21hhUVOGMLy4LEOshtjFVttnxZzPK_KDEXl171vgvYizY9cRxBQ-TduHBzB74d50syw3UKm3q-GQubo8OQX9RKoKQThNdyP2HvFkeubMKuMUxDD1IHeJDoigR1SSSpKehaq0Ay4YyVB9qLTZiCQSDr76cFEJJOUeplh2oWr-1igAWYLjJtRP/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwwytA7fDKjQ0OzMkxgZH2bV4CLI0saJMTxC9XTUk6U0UTGcgFV--09dMDdd4MZP2VrVNRADHoi4-1KGIcncncDSTYjvYLe6bspBJrg_YVLDScmNzqul_uAqFpzyfFQTC9hVZLZBxPhcsY1bXVrZ73Ig4bAVZXe2H2nVoXj_sR8KmoL7W-fwJmIX6o/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXNs9vZDAMFuwPEyBgVp0E2X-KDk4giyjzX10ZaYOGrLy6bGRDtFP10zRuZNy6_QJTBHYuCPvvdmg5LK_t16J8MXcbpG29Td45K0thz0JC3kUZBbve_phptklNqx9EGitd58x_-h_34VtNkzp-QLoNJEucxlckRJKVQfwK7ndARbva7o16zf2KoMk2/s1600/android-icon-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi15nW9mV-DJu_sxRIPezK8vESRba02NVPDdiMmBto2Ab2nh0jhIucdPqKtp-iSEWX6pY0FihSQAN2Nky28xQcnnMeXk6a9Jzcalx3D3SXL-FBFKWm9FXlwPtCptOxWfIgHe77ouKM8BwWbDvWkIDyyOd79hmfDkPHV5tlJ3M9c6lFSYksBniJkRlet/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWLcxsXlb6UGwvR40hiWsDUkhh1eQiMKexvbgY0TAgA7nSTZyVhXQfCGgjA3qJdLs4tGqeqw3DTUqco6WIJztOrQNlOTLtYeCWj5ZPGo4XlmCDy6JnwAQSbXpYp3YMJ-zLfQLe6QhATibgFKuy4iHm76NLQt_Ha6DzwAJ2mW37yMgmkcnzdutNXfyp/s16000/sucbar.com.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
